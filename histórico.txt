@@ -1,0 +1,36 @@
+Palavra = arara
+O vencedor foi Pedro
+
+O perdedor foi Joao
+
+
+Palavra = ba
+O vencedor foi Pedro
+
+O perdedor foi Joao
+
+
+Palavra = arara
+O vencedor foi Lucas
+
+O perdedor foi Joao
+
+
+Palavra = eenav
+O vencedor foi Renatinha bff
+
+O perdedor foi Joao
+
+
+Palavra = arara
+O vencedor foi Vandeir 
+
+O perdedor foi Joao V.
+
+
+Palavra = arara
+O vencedor foi brunera
+
+O perdedor foi joao v.
+
+
